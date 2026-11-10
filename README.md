@@ -11,8 +11,7 @@ Web gamifikasi belajar informatika untuk siswa SMP, dilengkapi asisten AI bernam
 | **Asisten AI** | FORA AI |
 | **Nama tim** | TEAM SIKATZZ |
 | **Repositori GitHub** | https://github.com/HealthyHustle/GAMIFORA/upload |
-| **Aplikasi (deploy)** | [ISI: https://nama-aplikasi.vercel.app] |
-| **Video demo** | [ISI: https://youtube.com/watch?v=...] |
+| **Video demo** | https://youtu.be/9cnhT2xUqvk?si=_19-4o_oWwMbBUgr |
 
 ## Anggota Tim
 
